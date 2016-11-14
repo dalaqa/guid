@@ -2,6 +2,10 @@ function Guid(b) {
 
     //@ Made by Zura Dalakishvili, Tbilisi, Georgia 2016
     //Guid representation created from  byte[] array for Javascript
+    
+    // Usage: 
+    //  var inst = new Guid(array);
+    //   var guidStr = inst.guidString;
 
 
     var _a;
